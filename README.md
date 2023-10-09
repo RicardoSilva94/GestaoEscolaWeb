@@ -1,5 +1,4 @@
 # GestaoEscolaWeb
 
-Projeto web desenvolvido em âmbito letivo que simula a gestão de uma Escola, com relacionamento das entidades Formando, Formandor e Cursos. Permite também registo e Login.
-Frontend desenvolvido com recurso a Java Server Pages.
-Base de dados desenvolvida com recurso ao MySQL.
+Web project developed within an academic context that simulates the management of a school, involving entities such as Student, Instructor, and Courses, while also allowing registration and login. 
+The frontend was developed using Java Server Pages, and the database was created using MySQL.
